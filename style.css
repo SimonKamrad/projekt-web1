@@ -1,0 +1,66 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    background-color: #eeeeee;
+}
+
+
+/* MENU */
+
+#navbar {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+#navbar ul {
+    display: flex;
+    list-style: none;
+}
+
+#navbar ul li a {
+    padding: 10px;
+    margin: 4px;
+}
+
+#navbar ul li a:hover {
+    background-color: #93cb52;
+    border-radius: 5px;
+}
+
+.text-primary {
+    color: #93cb52;
+}
+
+
+/* ÚVOD */
+
+header {
+    background-color: #93cb52;
+    text-align: center;
+    padding: 40px;
+}
+
+
+/* OBSAH */
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+}
+
+
+h2 i {
+    color: #93cb52;
+}
