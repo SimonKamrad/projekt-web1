@@ -48,3 +48,11 @@ section {
     margin: 20px;
     padding: 30px;
 }
+
+footer {
+    background-color: #f700ff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
